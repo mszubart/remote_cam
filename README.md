@@ -30,7 +30,7 @@ Then
 Or something like this...
 
 ### Run it! Run!
-Executables can be probably, maybe found in build/server and build/client directories.
+Executables can be probably, maybe found in `build/server` and `build/client` directories.
 
 ### License
 @ LICENSE file
