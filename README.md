@@ -9,7 +9,7 @@ Me can't do buildz. Halp plz !!11one
 
 ### Requirements
 
-* [OpenCV 2.x](http://opencv.willowgarage.com/wiki/)
+* [OpenCV 2.x](http://opencv.org/)
 * [Crossroads I/O](https://github.com/250bpm/libxs)
 * [LibXS C++ bindings](https://github.com/250bpm/cppxs)
 * CMake
