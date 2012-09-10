@@ -8,6 +8,7 @@ using namespace cv;
 using namespace std;
 
 #include <time.h>
+#include <unistd.h>
 
 int main(int ac, char** av) {
     int hwm = 10;
